@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Traje de novio",
+      "price": 1000,
+      "img": "https://cdn0.matrimonios.cl/article-vendor/3208/original/1280/jpg/a1e6db8d-04f1-4114-8a69-1e8601aec187-copia_8_123208-161919673071058.jpeg",
+      "quanty": 1
+    },
+    {
+      "id": 2,
+      "name": "Traje tradicional",
+      "price": 850,
+      "img": "https://images.hola.com/imagenes/novias/20200305162297/traje-de-novio-tendencias-2020/0-793-727/tendencias-novio-1m-m.jpg?tx=w_680",
+      "quanty": 1
+    },
+    {
+      "id": 3,
+      "name": "Smoking",
+      "price": 900,
+      "img": "https://www.mensfashion.com.mx/on/demandware.static/-/Sites-storefront-catalog-m-en/default/dw32f5c3f4/images/FA00189703_1.jpg",
+      "quanty": 1
+    },
+    {
+      "id": 4,
+      "name": "Traje vaquero",
+      "price": 1000,
+      "img": "https://www.bellezasdc.com/cdn/shop/products/traje-vaquero-para-hombre-el-senor-de-los-cielos-negro-42631-42631-chamarra-486194.jpg?v=1680654172&width=900",
+      "quanty": 1
+    }
+  ]
